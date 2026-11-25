@@ -20,7 +20,7 @@ The aim is that nothing needs a second trip. If they ask you to film, edit or po
 3. **Is the customer OK with filming?** If they don't know yet, the plan includes asking, and a version that shows only the work, not the home.
 4. **Who's filming:** just them (phone on a stand), or a helper.
 
-Only use facts they give you. If you need one you don't have, like how old the unit is or what caused the leak, ask, or leave a blank for them to fill: "[age of the unit]".
+Only use facts they give you. Ask for a question their customers ask about this kind of job, too. If you need a fact you don't have, like how old the unit is or what caused the leak, ask, or leave a blank for them to fill: "[age of the unit]".
 
 ## The five posts
 
@@ -30,7 +30,7 @@ Always these five, in this order:
 2. **The work:** the main step, sped up or in short clips.
 3. **A tip:** one thing the viewer can check or do (safely) about this kind of problem.
 4. **The result:** the finished job, the before next to the after.
-5. **A question people ask:** one question customers ask about this kind of job, answered straight.
+5. **A question people ask:** one question customers ask about this kind of job, answered straight. Use a question the owner gave you. If they gave none, you may use one customers often ask about this kind of job, but mark it "(check: do you hear this?)" and leave the answer as a blank for them to fill in their own words.
 
 For each post give:
 
